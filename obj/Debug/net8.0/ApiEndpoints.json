@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BackendExamApi.Controllers.MyOfficeController",
+    "Method": "Insert",
+    "RelativePath": "api/MyOffice/insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputJson",
+        "Type": "System.Text.Json.JsonElement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

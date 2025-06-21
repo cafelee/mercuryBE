@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Cafe\\Desktop\\work\\\u7B46\u8A66\u9762\u8A66\\mercuryBE\\mercuryBE\\BackendExamApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3C49E5-FE96-4E23-8EE2-798F3A5DBC05}|BackendExamApi.csproj|c:\\users\\cafe\\desktop\\work\\\u7B46\u8A66\u9762\u8A66\\mercurybe\\mercurybe\\backendexamapi\\backendexamapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E3C49E5-FE96-4E23-8EE2-798F3A5DBC05}|BackendExamApi.csproj|solutionrelative:backendexamapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackendExamApi",
+              "DocumentMoniker": "C:\\Users\\Cafe\\Desktop\\work\\\u7B46\u8A66\u9762\u8A66\\mercuryBE\\mercuryBE\\BackendExamApi\\BackendExamApi.csproj",
+              "RelativeDocumentMoniker": "BackendExamApi.csproj",
+              "ToolTip": "C:\\Users\\Cafe\\Desktop\\work\\\u7B46\u8A66\u9762\u8A66\\mercuryBE\\mercuryBE\\BackendExamApi\\BackendExamApi.csproj",
+              "RelativeToolTip": "BackendExamApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T07:21:47.07Z",
+              "EditorCaption": ""
             }
           ]
         }
